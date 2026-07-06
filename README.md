@@ -262,4 +262,4 @@ python train_deepfm.py
 
 - 赛题主办方：**全球校园人工智能算法精英大赛**
 - 出题单位：**模式分析与机器智能工信部重点实验室**
-- 本项目使用了 [RecBole](https://github.com/RUCAIBox/RecBole)、[PyTorch](https://pytorch.org/)、[XGBoost](https://xgboost.ai/)、[LightGBM](https://lightgbm.readthedocs.io/)
+
