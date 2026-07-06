@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Data files
+data/*.csv
+data/*.pkl
+data/*.npy
+*.csv
+*.pkl
+*.npy
+*.model
+*.pt
+*.pth
+
+# Output files
+output/
+output+*/
+results/*.csv
+results/*.pkl
+*.csv
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+venv/
+env/
+ENV/
+
+# Large model files
+*.bin
+*.safetensors
